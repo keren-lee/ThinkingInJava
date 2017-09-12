@@ -5,8 +5,12 @@
   <groupId>cn.com.tyung</groupId>
   <artifactId>ThinkingInJava</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
-
+  <packaging>pom</packaging>
+	
+	<modules>
+		<module>chapter-eight</module>
+		<module>chapter-nine</module>
+	</modules>
   <name>ThinkingInJava</name>
   <url>http://maven.apache.org</url>
 
