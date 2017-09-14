@@ -10,6 +10,7 @@
 	<modules>
 		<module>chapter-eight</module>
 		<module>chapter-nine</module>
+		<module>chapter-ten</module>
 	</modules>
   <name>ThinkingInJava</name>
   <url>http://maven.apache.org</url>

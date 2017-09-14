@@ -2,17 +2,17 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>chapter-nine</artifactId>
+  <artifactId>chapter-ten</artifactId>
   <packaging>jar</packaging>
   
   <parent>
   	<groupId>cn.com.tyung</groupId>
   	<artifactId>ThinkingInJava</artifactId>
   	<version>0.0.1-SNAPSHOT</version>
-  	<relativePath>/pom.xml</relativePath>
+  	<relativePath>/pom</relativePath>
   </parent>
 
-  <name>chapter-nine</name>
+  <name>chapter-ten</name>
   <url>http://maven.apache.org</url>
 
   <properties>
