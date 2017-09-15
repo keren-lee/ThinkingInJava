@@ -1,2 +1,2 @@
 # ThinkingInJava
-The Book 'Thinking In Java' code
+《Java编程思想》学习笔记代码
